@@ -4,30 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7213325e-64a8-495d-94a7-40f78e55b9e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/chat/AdventureUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/chat/ColorUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/chat/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/gson/LocationAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/gson/PathAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/gson/WorldAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/item/ItemBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/worldedit/ExpansionUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/worldedit/WorldEditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/worldedit/WorldEditUtils.java" afterDir="false" />
+    <list default="true" id="7213325e-64a8-495d-94a7-40f78e55b9e2" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="5704" />
+    <option name="totalTimeSeconds" value="6043" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -139,6 +118,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677766442960</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1677776884592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677776884592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>

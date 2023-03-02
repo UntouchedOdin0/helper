@@ -7,6 +7,9 @@ plugins {
 group 'me.untouchedodin0.helper'
 version '1.0-SNAPSHOT'
 
+sourceCompatibility = 17
+targetCompatibility = 17
+
 repositories {
     mavenCentral()
     maven { url = 'https://repo.papermc.io/repository/maven-public/' }
