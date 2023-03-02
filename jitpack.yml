@@ -1,8 +1,0 @@
-java:
-  - openjdk17
-
-before_install:
-  - chmod +x gradlew
-
-build:
-  script: ./gradlew shadowJar
