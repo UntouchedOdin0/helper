@@ -1,13 +1,13 @@
 plugins {
     id 'java'
-    id 'com.github.johnrengelman.shadow' version '7.1.2'
     id 'maven-publish'
+    id 'com.github.johnrengelman.shadow' version '7.1.2'
 }
 
 group 'me.untouchedodin0.helper'
 version '0.0.1-SNAPSHOT'
 
-//sourceCompatibility = 17
+sourceCompatibility = 17 // java 8
 targetCompatibility = 17
 
 repositories {
@@ -22,7 +22,7 @@ dependencies {
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
 
     compileOnly 'org.spigotmc:spigot-api:1.13.2-R0.1-SNAPSHOT'
-    compileOnly 'com.fastasyncworldedit:FastAsyncWorldEdit-Core:2.5.1'
+    compileOnly 'com.fastasyncworldedit:FastAsyncWorldEdit-Core:2.5.0'
     compileOnly 'com.fastasyncworldedit:FastAsyncWorldEdit-Bukkit:2.5.0'
 
     implementation 'net.kyori:adventure-text-minimessage:4.12.0'
