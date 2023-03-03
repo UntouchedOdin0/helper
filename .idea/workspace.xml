@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7213325e-64a8-495d-94a7-40f78e55b9e2" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/time/CooldownManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="7213325e-64a8-495d-94a7-40f78e55b9e2" name="Changes" comment="Fix?">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/Helper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/chat/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/untouchedodin0/helper/chat/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="7273" />
+    <option name="totalTimeSeconds" value="7866" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -149,7 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677777745545</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added CooldownManager and some other useful stuff in StringUtils">
+      <created>1677877555872</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677877555872</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix?">
+      <created>1677877787180</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677877787180</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,6 +168,8 @@
     <MESSAGE value="FAWE Fixes?" />
     <MESSAGE value="jitpack fixes?" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Added CooldownManager and some other useful stuff in StringUtils" />
+    <MESSAGE value="Fix?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix?" />
   </component>
 </project>
