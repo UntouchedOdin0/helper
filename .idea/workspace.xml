@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7213325e-64a8-495d-94a7-40f78e55b9e2" name="Changes" comment="Fix? #2">
-      <change beforePath="$PROJECT_DIR$/jitpack.yml" beforeDir="false" afterPath="$PROJECT_DIR$/jitpack.yml" afterDir="false" />
+    <list default="true" id="7213325e-64a8-495d-94a7-40f78e55b9e2" name="Changes" comment="Fix? #3">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="8377" />
+    <option name="totalTimeSeconds" value="8499" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -173,7 +173,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677878693485</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Fix? #3">
+      <created>1677878757835</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677878757835</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix? #3">
+      <created>1677878861774</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677878861774</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,6 +199,7 @@
     <MESSAGE value="Fix?" />
     <MESSAGE value="Fix? #1" />
     <MESSAGE value="Fix? #2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix? #2" />
+    <MESSAGE value="Fix? #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix? #3" />
   </component>
 </project>
