@@ -1,7 +1,6 @@
 package me.untouchedodin0.helper.chat;
 
 import me.untouchedodin0.helper.Helper;
-import net.kyori.adventure.Adventure;
 import net.kyori.adventure.audience.Audience;
 import net.kyori.adventure.platform.bukkit.BukkitAudiences;
 import net.kyori.adventure.text.Component;
